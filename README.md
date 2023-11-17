@@ -1,2 +1,2 @@
-# optixGPT
+# OptixGPT
 GPT for DWDM
